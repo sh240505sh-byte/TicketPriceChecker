@@ -1,1 +1,1 @@
-# TicketPriceChecker
+# Ticket.Price.Checker
